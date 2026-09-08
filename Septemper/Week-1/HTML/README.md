@@ -1,3 +1,5 @@
+HTML Task
+
 You have to use HTML Only You are not allowed to use CSS to implement the images below:
 - Create a repo on your GitHub account (HTML Task) 
 - Clone this repo on your local machine 
