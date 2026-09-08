@@ -1,4 +1,8 @@
 HTML Task
+<<<<<<< HEAD
+=======
+
+>>>>>>> cf5f530433b0b2e76c08a52e1f4e3663d04ff90f
 You have to use HTML Only You are not allowed to use CSS to implement the images below:
 - Create a repo on your GitHub account (HTML Task) 
 - Clone this repo on your local machine 
