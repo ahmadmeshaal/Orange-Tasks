@@ -1,0 +1,52 @@
+.main-container{
+border: 2px solid;
+border-color: coral;
+
+display: flex;
+flex-direction: column;
+}
+
+.a{
+display: flex;
+justify-content: center;
+color: white;
+}
+
+.a1{
+background-color: aquamarine;
+}
+.a2{
+background-color: rgb(35, 146, 215);
+}
+.a3{
+background-color: rgb(179, 44, 241);
+ 
+}
+.a4{
+background-color: rgb(9, 44, 66);
+ 
+}
+.a5{
+background-color: rgb(216, 216, 13);
+ 
+}
+.a6{
+background-color: rgb(235, 151, 16);
+ 
+}
+.a7{
+background-color: rgb(215, 36, 16);
+ 
+}
+.a8{
+background-color: rgb(169, 172, 171);
+ 
+}
+.a9{
+background-color: rgb(20, 179, 57);
+ 
+}
+.a10{
+background-color: rgb(4, 76, 17);
+ 
+}
