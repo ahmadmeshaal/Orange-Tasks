@@ -1,7 +1,23 @@
+body{
+    margin: 0px;
+}
 .main-container{
     display: flex;
+    background-color: aqua;
+    font-size: 15px;
 
 }
-p{
-    font-size: 10px;
+
+.box{
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+}
+.box1{
+    background-color: rgb(26, 142, 95);
+    width: 70%;
+}
+.box2{
+    background-color: rgb(14, 98, 194);
+    width: 30%;
 }
