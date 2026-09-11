@@ -1,0 +1,19 @@
+.continer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ width: 30%;  
+ height: 30%; 
+padding: 30px;
+border: 10px;
+border-radius: 6px;
+border: 1px solid blueviolet;
+}
+
+.center{
+width: 200px;
+font-size: 6px;
+padding: 2px;
+background-color: blueviolet;
+color: aliceblue;
+}

@@ -1,0 +1,28 @@
+body{
+    padding: 0px;
+    margin: 4px;
+    background-color: rgb(214, 211, 211);
+}
+.main-container{
+    padding: 2px;
+    width: 100%;
+}
+
+.line{
+    font-size: 12px;
+    padding: 2px;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.box{
+    border: 1px solid rgb(116, 116, 245);
+    background-color: rgb(36, 102, 223);
+    color: aliceblue;
+    padding: 3px;
+    margin: 4px;
+    border-radius: 4px;
+    width: 40%;
+}

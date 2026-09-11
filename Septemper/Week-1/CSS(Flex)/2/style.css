@@ -1,0 +1,45 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.main-container{
+    height: 300px;
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+}
+.nav{
+    background-color: white;
+    padding: 4px;
+    border-bottom: 0.5px solid ;
+    border-color: gray;
+    font-size: 20%;
+    font-weight: bold;
+}
+
+.nav2{
+    background-color: white;
+    padding: 1px;
+    border-bottom: 0.5px solid ;
+    border-color: gray;
+    font-size: 20%;
+    font-weight: bold;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.crcile{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    padding: 1px;
+    margin-left: 2px;
+    background-color: red;
+}
+
+.cat{
+    display: flex;
+    gap: 10px;
+    padding-right: 10px;
+}

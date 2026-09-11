@@ -1,0 +1,63 @@
+.main-container{
+    border: 2px solid ;
+    border-color: rgb(225, 159, 5);
+    height: 410px;
+    display: flex;
+    align-items: flex-start;
+}
+.inner{
+    display: flex;
+    align-items: end;
+    width: fit-content;
+    height: 55px;
+}
+.a{
+    padding: 3px;
+    font-size: 50px;
+    width: fit-content;
+    color: aliceblue;
+    
+}
+.a1{
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-size: 10px;
+    height: 23%;
+    background-color: aquamarine;
+}
+
+.a2{
+background-color: rgb(35, 85, 179);
+}
+
+.a3{
+background-color: rgb(154, 34, 201);
+}
+
+.a4{
+background-color: rgb(15, 40, 32);
+align-self: stretch ;
+}
+
+.a5{
+background-color: rgb(236, 255, 127);
+align-self:center ;
+font-size: 10px;
+}
+.a6{
+background-color: rgb(224, 159, 37);
+}
+.a7{
+background-color: rgb(222, 76, 13);
+}
+.a8{
+background-color: rgb(169, 169, 167);
+}
+.a9{
+background-color: rgb(37, 224, 46);
+}
+.a10{
+background-color: rgb(224, 37, 183);
+align-self: flex-end;
+
+}
