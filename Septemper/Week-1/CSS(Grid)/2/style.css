@@ -1,0 +1,9 @@
+.main-container{
+    padding: 7px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    gap: 2px;
+}
+.text{
+    padding: 4px
+}

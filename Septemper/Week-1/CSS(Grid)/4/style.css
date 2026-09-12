@@ -1,0 +1,21 @@
+.main-container{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(2,1fr);
+    justify-items: stretch;
+    gap: 50px;
+}
+.main-container > span {
+    position: relative;
+}
+.child{
+    opacity: 0.8;
+    color: aliceblue;
+    background: rgb(70, 68, 68);
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 5px;
+    z-index: 1;
+}

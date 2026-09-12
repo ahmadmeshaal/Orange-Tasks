@@ -1,0 +1,50 @@
+body{
+        margin: 0px;
+
+}
+.main-container{
+    background-color: aquamarine;
+
+    display: grid;
+    grid-template-columns: 1fr 2fr  ;
+    grid-template-rows: 1fr 1fr 2fr 2fr  ;
+    grid-auto-rows: 1fr;
+    background-color: white;
+    
+    text-align: center;
+
+    color: aliceblue;
+    gap: 5px;
+
+    height: 100vh;
+}
+.box{
+        border-radius: 7px;
+        padding-top:4px ;
+}
+header{
+    background-color: yellow;
+    grid-column: span 2;
+}
+
+aside{
+    background-color: rgb(198, 53, 53);
+    grid-row: span 4;
+}
+
+nav{
+    background-color: aqua;
+    
+}
+
+article{
+    background-color: darkgrey;
+        grid-row: span 3;
+
+}
+
+footer{
+    background-color: rgb(10, 10, 91);
+    grid-column: span 2;
+
+}
