@@ -1,0 +1,21 @@
+.main-container{
+    background-color: rgb(133, 12, 163);
+    display: grid;
+    grid-template-columns: repeat(8,1fr);
+    grid-template-rows: repeat(5,1fr);
+    gap: 20px;
+    padding: 10px;
+}
+.box{
+    color: aliceblue;
+    font-size: 70px;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+    background-color: rgb(228, 6, 195);
+}
+
+.box3{
+    grid-row-start: 4;
+    grid-column: 1/9;
+}

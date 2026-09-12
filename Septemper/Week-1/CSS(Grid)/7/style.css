@@ -1,0 +1,22 @@
+.main-container{
+    border: 1px solid rgb(17, 114, 156);
+    padding: 10px;
+}
+
+.sub-container{
+    
+        padding: 20px;
+        border: 1px solid rgb(17, 114, 156);
+        display: grid;
+        justify-items: center;
+        gap: 30px;
+        grid-template-columns: repeat(3,1fr);
+}
+
+.box{
+    padding: 10px;
+    width: fit-content;
+    text-align: center;
+    color: aliceblue;
+    background-color: cadetblue;
+}
